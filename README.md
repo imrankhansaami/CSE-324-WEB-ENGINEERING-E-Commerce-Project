@@ -1,32 +1,35 @@
-# CSE-324 WEB ENGINEERING - ICT Fest Project
+# CSE-324-WEB-ENGINEERING E-Commerce Project  
 
-## Description
-This project is developed as part of the **CSE-324 Web Engineering** course and serves as the official website for the ICT Fest. The website provides a comprehensive platform for managing event registrations, schedules, competitions, and announcements. It aims to enhance the user experience for participants, organizers, and sponsors by offering an interactive and user-friendly interface.
+## Description  
+This is an e-commerce web application developed as part of the **CSE-324 Web Engineering** course. The project showcases a fully functional online store with essential features like product listing, user authentication, cart management, and order processing.  
 
 ## Features
-- **Home Page:** Overview of the ICT Fest with event highlights and a countdown timer.
-- **Event Schedule:** Detailed agenda with session times, speaker details, and filters.
-- **Registration Portal:** Online registration for participants, speakers, and sponsors.
+- **Home Page:** Overview of the E-Commerce Shop 
 - **Contact & Support:** Inquiry forms, chatbot integration, and social media links.
+- Responsive design for a seamless user experience  
 
-## Technologies Used
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **Backend:** PHP
-- **Database:** MySQL
-- **Version Control:** Git & GitHub
 
-## Installation & Setup
-1. Clone the repository:
+## Technologies Used  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP / Node.js (based on implementation)  
+- **Database:** MySQL / MongoDB  
+- **Frameworks:** Bootstrap, Express.js (if applicable)  
+
+## Installation & Setup  
+1. Clone the repository:  
    ```bash
-   git clone https://github.com/imrankhansaami/CSE-324-WEB-ENGINEERING-ICT-Fest.git
+   git clone https://github.com/yourusername/CSE-324-WEB-ENGINEERING.git
+   cd CSE-324-WEB-ENGINEERING
    ```
-2. Navigate to the project folder:
+2. Install dependencies (if applicable):  
    ```bash
-   cd CSE-324-WEB-ENGINEERING-ICT-Fest
+   npm install
    ```
-3. Set up the database using MySQL.
-4. Start a local server (e.g., XAMPP, MAMP, or Node.js for API services).
-5. Open the project in a browser.
+3. Configure database connection in `.env` (for backend projects).  
+4. Start the server:  
+   ```bash
+   npm start
+   ```
 
 ## Contributors
 - Shawon
