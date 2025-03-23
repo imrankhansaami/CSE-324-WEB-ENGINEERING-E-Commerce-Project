@@ -11,9 +11,8 @@ This is an e-commerce web application developed as part of the **CSE-324 Web Eng
 
 ## Technologies Used  
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** PHP / Node.js (based on implementation)  
-- **Database:** MySQL / MongoDB  
-- **Frameworks:** Bootstrap, Express.js (if applicable)  
+- **Backend:** PHP 
+- **Database:** MySQL 
 
 ## Installation & Setup  
 1. Clone the repository:  
